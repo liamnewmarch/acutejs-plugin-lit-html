@@ -1,0 +1,24 @@
+{
+  "name": "acutejs-plugin-lit-html",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.esm.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamnewmarch/acutejs-plugin-lit-html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liamnewmarch/acutejs-plugin-lit-html/issues"
+  },
+  "homepage": "https://github.com/liamnewmarch/acutejs-plugin-lit-html#readme",
+  "peerDependencies": {
+    "lit-html": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-google": "^0.12.0"
+  }
+}
