@@ -20,4 +20,3 @@ rules:
     - error
     - always
     - objectsInObjects: false
-  require-jsdoc: 0
