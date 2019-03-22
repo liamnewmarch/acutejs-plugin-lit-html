@@ -18,7 +18,7 @@
     "lit-html": "^1.0.0"
   },
   "devDependencies": {
-    "eslint": "^5.15.1",
+    "eslint": "^5.15.3",
     "eslint-config-google": "^0.12.0"
   }
 }
