@@ -23,7 +23,7 @@ export default ({ render }) => {
        * instance to the component’s shadow root.
        */
       return () => {
-        const templateInstance = fn.call(component, component.props);
+        const templateInstance = fn.call(component, component.element);
         render(templateInstance, component.element.shadowRoot);
       };
     };
