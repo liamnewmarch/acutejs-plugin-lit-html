@@ -1,8 +1,9 @@
 {
   "name": "@acutejs/plugin-lit-html",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "",
-  "main": "dist/index.esm.js",
+  "type": "module",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/liamnewmarch/acutejs-plugin-lit-html.git"
@@ -18,7 +19,7 @@
     "lit-html": "^1.0.0"
   },
   "devDependencies": {
-    "eslint": "^5.15.3",
-    "eslint-config-google": "^0.12.0"
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0"
   }
 }
